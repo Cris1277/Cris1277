@@ -22,14 +22,17 @@ environments.
 
 ## 🧩 Featured Projects
 
+- 🌿 **IntusBridge**  
+  Emotional wellbeing platform built with Next.js (App Router), TypeScript, Prisma, and PostgreSQL.  
+  Secure authentication (NextAuth + JWT), user-scoped data isolation, mood tracking, private journaling (CRUD), emotional
+  trends visualization, and GDPR-style full data deletion.
+  Architecture prepared for future AI integration.  
+  🔗 https://intus-bridge-v4.vercel.app
+  
 - 🏢 **Community Incident Management System (Final Degree Project)**  
   Full-stack app with Next.js, TypeScript, PostgreSQL, role-based access,
   dashboards, and AI-powered text enhancement  
   🔗 https://gestor-incidencias-teal.vercel.app
-
-- ✅ **Task Management App**  
-  React + ASP.NET Core + PostgreSQL with JWT authentication  
-  🔗 https://cozy-cocada-5d1fe4.netlify.app
 
 - 📊 **Real-Time Data Dashboard**  
   Node.js, InfluxDB, React, Chart.js  
