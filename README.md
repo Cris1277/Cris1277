@@ -1,6 +1,6 @@
 # Hi, I'm Cristian 👋
 
-I'm a **Junior Full-Stack Web Developer** with a strong focus on building
+I'm a **Full-Stack Web Developer** with a strong focus on building
 **real-world, production-ready web applications**.
 
 After several years working in another professional sector, I decided to
