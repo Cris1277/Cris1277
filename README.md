@@ -25,14 +25,30 @@ environments.
 - 🌿 **IntusBridge**  
   Emotional wellbeing platform built with Next.js (App Router), TypeScript, Prisma, and PostgreSQL.  
   Secure authentication (NextAuth + JWT), user-scoped data isolation, mood tracking, private journaling (CRUD), emotional
-  trends visualization, and GDPR-style full data deletion.
+  trends visualization, and GDPR-style full data deletion.  
   Architecture prepared for future AI integration.  
-  🔗 https://intus-bridge-v4.vercel.app
-  
+
+  🎥 **Quick Demo**  
+  > No login required — here’s a quick walkthrough  
+
+  [![Watch IntusBridge Demo](https://img.youtube.com/vi/U5EsAriAgD0/0.jpg)](https://www.youtube.com/watch?v=U5EsAriAgD0)
+
+  🔗 Live App: https://intus-bridge-v4.vercel.app/
+
+##
+
 - 🏢 **Community Incident Management System (Final Degree Project)**  
   Full-stack app with Next.js, TypeScript, PostgreSQL, role-based access,
   dashboards, and AI-powered text enhancement  
-  🔗 https://gestor-incidencias-teal.vercel.app
+
+  🎥 **Quick Demo**  
+  > No login required — here’s a quick walkthrough  
+
+  [![Watch Incident System Demo](https://img.youtube.com/vi/BGO-pMi8U10/0.jpg)](https://www.youtube.com/watch?v=BGO-pMi8U10)
+
+  🔗 Live App: https://gestor-incidencias-teal.vercel.app
+
+##
 
 - 📊 **Real-Time Data Dashboard**  
   Node.js, InfluxDB, React, Chart.js  
