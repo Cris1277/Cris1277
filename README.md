@@ -52,7 +52,7 @@ environments.
 
 - 📊 **Real-Time Data Dashboard**  
   Node.js, InfluxDB, React, Chart.js  
-  🔗 https://stirring-licorice-c513d5.netlify.app
+  🔗 Live App: https://stirring-licorice-c513d5.netlify.app
 
 ---
 
